@@ -1,0 +1,23 @@
+p {
+color: white;
+font-family: Constantia, "Lucida bright", "DejaVu serif", Georgia, "serif";
+font-size: 16px;
+line-height: 18px;
+width: 600px;
+background-color: antiqewhite;
+padding: 20px;
+	}
+	h1, h2{
+		font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+		color:cadeblue;
+	}
+	
+	body{
+		background-image: url("slike/p5.png");
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-attachment: fixed;
+    color: white;
+	}
+	
+	
